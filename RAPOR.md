@@ -1,6 +1,6 @@
 # Rapor
 
-**Ad Soyad:**
+**Ad Soyad:Ali Deniz Tüfekci**
 **Numara:**
 
 ## 1. Problemin Açıklaması
